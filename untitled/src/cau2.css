@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: deeppink;
+    background-color: pink;
+}
+.big{
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+}
+.dong1{
+    text-align: center;
+    color: blue;
+}
+.dong2{
+    text-align: center;
+    color: red;
+}
+.dong3{
+    text-align: center;
+    color: green;
+}

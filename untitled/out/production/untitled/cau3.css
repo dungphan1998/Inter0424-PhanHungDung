@@ -1,0 +1,17 @@
+.big{
+    background-color: sandybrown;
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+.img{
+    background-image: url("https://9mobi.vn/cf/images/2015/03/nkk/hinh-dep-1.jpg");
+}
+h3{
+    color: white;
+}
+
+.chen{
+    position: absolute;
+}
